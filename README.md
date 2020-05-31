@@ -37,3 +37,5 @@ youtube-dl = A command line utility for downloading youtube videos.
 audacity = A great audio mixing and editing software.
 
 Handbrake = A great video conversion tool.
+
+Psensor= An application for monitoring temparature of the cpu and gpu
