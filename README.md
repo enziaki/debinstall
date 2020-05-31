@@ -1,6 +1,7 @@
 # debinstall
-Install some apps on a debian based system
-Feel free to remove any of the apps that you won't like
+Install some apps on a debian based system.
+Feel free to add or remove any app.
+
 list of apps that will be installed by this shell script:-
 
 Wine = A windows emulation layer for linux.
