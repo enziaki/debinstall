@@ -48,5 +48,7 @@ Psensor= An application for monitoring temparature of the cpu and gpu
 
 
 git clone the url
+
 cd into the debinstall folder
+
 sudo chmod +x aptinst.sh && ./aptinst.sh
