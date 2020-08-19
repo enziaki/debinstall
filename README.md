@@ -1,4 +1,5 @@
 # debinstall
+
 Install some apps on a debian based system.
 Feel free to add or remove any app.
 
@@ -39,3 +40,13 @@ audacity = A great audio mixing and editing software.
 Handbrake = A great video conversion tool.
 
 Psensor= An application for monitoring temparature of the cpu and gpu
+
+
+
+
+# Installation
+
+
+git clone the url
+cd into the debinstall folder
+sudo chmod +x aptinst.sh && ./aptinst.sh
