@@ -31,7 +31,7 @@ vlc = you know what vlc media player is.
 
 Tor browser = For some extra private internet sessions.
 
-Spotify = Yeah you know this one as well you smart man/women/*insert_your_pronoun_here*.
+Spotify = Yeah you know this one as well you smart man/woman/*insert_your_pronoun_here*.
 
 youtube-dl = A command line utility for downloading youtube videos.
 
@@ -47,8 +47,11 @@ Psensor= An application for monitoring temparature of the cpu and gpu
 # Installation
 
 
-git clone the url
 
-cd into the debinstall folder
+```
+git clone https://www.github.com/enziaki/debinstall
+
+cd debinstall
 
 sudo chmod +x aptinst.sh && ./aptinst.sh
+```
