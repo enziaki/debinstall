@@ -41,6 +41,8 @@ Handbrake = A great video conversion tool.
 
 Psensor= An application for monitoring temparature of the cpu and gpu
 
+Discord - Do you really wanna ask this one?
+
 
 
 
