@@ -43,6 +43,7 @@ Psensor= An application for monitoring temparature of the cpu and gpu
 
 Discord - Do you really wanna ask this one?
 
+Vim-gtk3 - Gvim basically. People on the internet told me that vim is cool.
 
 
 
