@@ -1,5 +1,7 @@
 # debinstall
 
+### This repo is here for historical pondering, barely worth fondling!
+
 Install some apps on a debian based system.
 Feel free to add or remove any app.
 
